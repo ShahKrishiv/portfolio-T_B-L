@@ -96,3 +96,6 @@ p {
     font-family: monospace;
     color: black;
 }
+html{
+    scroll-behavior: smooth;
+}
